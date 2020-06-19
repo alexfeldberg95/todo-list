@@ -1,1 +1,1 @@
-# testt
+# django-todolist-app
